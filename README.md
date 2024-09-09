@@ -1,8 +1,14 @@
 in the resources/applications.properties 
 
 change
+
+
 spring.datasource.url=jdbc:mysql://localhost:3306/ur database name
+
+
 spring.datasource.username=root
+
+
 spring.datasource.password=ur mysql password
 
 this branch has the backend code for creating , updating , deleting and getting data for patients.

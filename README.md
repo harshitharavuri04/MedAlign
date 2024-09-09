@@ -1,4 +1,6 @@
-in the resources/applications.properties change
+in the resources/applications.properties 
+
+change
 spring.datasource.url=jdbc:mysql://localhost:3306/ur database name
 spring.datasource.username=root
 spring.datasource.password=ur mysql password
